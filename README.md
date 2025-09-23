@@ -1,4 +1,4 @@
-# Senior Design Project:
+# Senior Design Project
 # FallRisk: Safe Fall Coach App
 By: Gabbie Coronel, Thu Do, Thien Ha Le, Eva Lopez, and Diego Quinones
 

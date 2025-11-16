@@ -1,0 +1,3 @@
+[submodule "groundingdino/GroundingDINO"]
+	path = groundingdino/GroundingDINO
+	url = https://github.com/gabbiecoronel/GroundingDINO
